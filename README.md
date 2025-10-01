@@ -1,5 +1,7 @@
 # Practical Application 3 | Bank Marketing – Classifier Comparison
 
+Link to notebook: https://github.com/jon-kjartansson/ucb_module_17/blob/main/practical_application_III.ipynb
+
 **Objective.** Predict likelihood of term deposit subscription from client/campaign data to prioritize outbound calls and improve marketing efficiency.
 
 ## Data
@@ -21,6 +23,5 @@
 ## Recommendations
 - Deploy Logistic Regression (balanced) or pruned Decision Tree.
 - Use score-based targeting for top deciles; monitor PR/Lift and adjust threshold to meet capacity/ROI.
-
 
 ## Footnote: I used Gen AI to help format this .md file, and with some of the wording.
